@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algoritmos/Algoritmos.iml" filepath="$PROJECT_DIR$/Algoritmos/Algoritmos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_Java.iml" filepath="$PROJECT_DIR$/Curso_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enumeracoes/Enumeracoes.iml" filepath="$PROJECT_DIR$/Enumeracoes/Enumeracoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cource/cource.iml" filepath="$PROJECT_DIR$/cource/cource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex02/ex02.iml" filepath="$PROJECT_DIR$/ex02/ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex03/ex03.iml" filepath="$PROJECT_DIR$/ex03/ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex04/ex04.iml" filepath="$PROJECT_DIR$/ex04/ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matriz/matriz.iml" filepath="$PROJECT_DIR$/matriz/matriz.iml" />
+    </modules>
+  </component>
+</project>
